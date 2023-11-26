@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "Tokyo Storm AltSynt",
+    "[markdown]": {
+        "editor.wordWrap": "off"
+    },
+    "editor.autoClosingQuotes": "never",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "security.workspace.trust.untrustedFiles": "open",
+   "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+],
+  "vim.normalModeKeyBindings": [
+    {
+      "before": ["<space>", "w"],
+      "commands": [":w!"],
+      "args": []
+    },
+    {
+      "before": ["q"],
+      "commands": [":q!"],
+      "args": []
+
+    }
+  ],
+  "window.zoomLevel": 2
+
+}
