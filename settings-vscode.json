@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Tokyo Storm AltSynt",
+    "[markdown]": {
+        "editor.wordWrap": "off"
+    },
+    "editor.autoClosingQuotes": "never",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 2
+
+}
